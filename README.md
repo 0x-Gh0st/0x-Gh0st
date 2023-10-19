@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0x-Gh0st
+- 👀 I’m interested in gaming, trains, coding
+- 🌱 I’m currently learning python
